@@ -1,7 +1,7 @@
 # Day 1
-* Make planning
-* Choose theme -> disasters in relation to climate change
-* Choose template dashboard -> Kian's change colour and empty
+* ~~ Make planning ~~
+* ~~ Choose theme -> disasters in relation to climate change ~~
+* ~~ Choose template dashboard -> Kian's change colour and empty ~~
 * Find data
 * Select data
 * Clean and transform data
