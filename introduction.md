@@ -67,7 +67,15 @@ Is there a relationship between rising sea level and global warming? (What cause
 > What is the relationship between global warming and natural disasters?
 > 
 > 
-##
+## **Analysis 3 HDI**
+> At the first glance it doesn't seem like HDI has anything to do with the number of floods in a country. But the opposite is true. We can compare HDI of two most vulnerable nations and their population most vulnerable to the risk of flooding - Netherlands and Bangladesh.\
+> Netherlands index is solidly increasing every year and it's HDI rank is in top 10 in the world with outstanding index of 9.44 in 2019.\
+> Bangladesh index is also increasing every year, but is considerably lower than Netherlands has. Bangladesh has HDI of 6.32 in 2019.\
+
+> Huge part plays the fact that Netherlands has systems which are designed to notify 24 hours prior to the future catastrophic event. Bangladesh unforutnately doesn't have such luxury and is not able to notify in such an advance. Systems in Bangladesh are designed to notify its habitants only 5-6 hours before flood occurs. Most of the times this isn't enough to be able to evacute the area effectively and therefore the impact on the country and its citizens can be at times devastating.\
+> Difference of flood control technology in these two countries are very noticable and in favor of Netherlands. Dykes and sluices are made from durable metal alloys and have surveillance cameras and electronic sensors - which helps with providing more information about water levels.\
+> Bangladesh unfortunately, due to it's poor economic situation isn't able to invest as much as Netherlands does to flood control tools.\
+> 
 
 
 
