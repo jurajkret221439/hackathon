@@ -45,6 +45,11 @@ Is there a relationship between rising sea level and global warming? (What cause
 
 
 ## **Discussion**
+> 
+> 
+> 
+> 
+> 
 > After considering multiple factors, due to lack of time and resources many still remain unconsidered in our research.\
 > Other factors may include temperature, atmoshpere moisture, soil moisture...
 > There is a way to create model, where each factor of the formula would represent a variable. Of course each variable (factor) influences floods differently and also some are more distinctive than other. Therefore it's needed to assign weight to each factor depending on correlation found between certain factor and frequency of floods occured in the country.
