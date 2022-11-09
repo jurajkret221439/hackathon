@@ -10,7 +10,32 @@
 
 
 ## **EDA**
+Collection and selection
 
+The most time-consuming part of this project was finding data that was cross compatible, mainly because of our unfamiliarity with navigating databases and an unfeasible concept to begin with. All data used was publicly available. Our initial concept required a lot of complete datasets on every country. We mainly used datasets from OurWorldInData, these sets can be found in the references list. Some tables were found online but not downloadable, these sets often were limited but contained valuable information. We directly copied these and entered the data manually.
+
+
+
+Cleaning and transforming
+
+The data sets had to be cleaned a bit for our use, we seperated tables to reflect either just individual countries or the entire world, any other larger entities based on income or geolocation were removed to give representative visualisations (i.e. counts of natural disasters or people affected by those). Columns that were not relevant to our topic were removed from the set. To make the data set of climate change and natural disasters compatible we had to group the years in decades to match each other. At some points the data types had to be changed from text to decimal numbers.
+
+
+Visualisation
+The goal of this entire dashboard was to address global warming in a more serious way and to make it accesible to people that are not familiar with data or climate change. We made sure to explain each graph in a setp-by-step approach, slowly narrowing down on our topic. The main visualisations that were picked are meant to show an upwards trend in temperature and frequencies of natural disasters, as well as ratios and comparisons.
+
+
+**Concept**
+Our original concept unfortunately, was out of our expertise. But we wanted to showcase this concept nevertheless, for our experience as well as discovering its potential. As floodings are the most common natural disaster, which seems directly linked to the increase in temperature we focused on that. We want to propose a prediction model that takes into account different factors.
+* Rainfall
+* HDI
+* Island, landlocked, coastal
+* River and mountain landscape
+* Drought
+* Temperature
+* Elevation of population / population exposed to flooding
+* Frequency of floodings
+We want to asses weight to each of these factors in relation to each other to make a prediction model, which could save time to evacuate people depending on the climate, decerasing the amount of casualties.
 
 ## **Findings**
 
