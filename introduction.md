@@ -89,6 +89,6 @@ Is there a relationship between rising sea level and global warming? (What cause
 > If we were to have the formula, it would be possible to assign risk of flooding for the country more precisely. This model could be deployed to help prevent disasters in future, and help lower number of people affected by floods by implementing precautionary systems, facilities.
 > ### **HOW TO TEST ACCURACY OF THE FORMULA?**
 > After thorough discussion with the team we decided to base testing on, obviously events that occured in past. Since our team is based on Netherlands and more than **70%** of population lives below sea level, therefore is more prone to one of the factors (elevation) and at last, flooding. Formula would be tested _from_ - first day in history we can collect data related to freqeuncy of flooding and other factors; to - 1954. In 1953 last significant flood took place. We can state that from this year industrialization in the field of flood prevention started to evolve rapidly, therefore if we consider frequency of floods in the country that are not from pre-industrialization period findings would have a tendency to be skewed. 
-> ### ****
-
-
+## **Conclusion**
+\
+1 degree temperature raise seems neglegible, but after looking at correlation between global warming and people affected by natural disasters it clearly represents a threat not only for future generations but also for our generation. Improvement of flood control systems in countries that are most vulnerable to floods with combination of having lower HDI  is crucial to further prevention of disasters. Proposal of the prediction model is a big part of the NextWaive initiative and the vision of future implementation in the lingers at the top of our hearths.
